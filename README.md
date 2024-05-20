@@ -1,23 +1,22 @@
-Clone o repositório
+# Sistema de Estacionamento Básico em React
 
-bash
-Copiar código
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
-cd nome-do-repositorio
-Instale as dependências
+Este é um sistema de estacionamento básico desenvolvido em React. Ele permite a gestão de veículos estacionados.
 
-No diretório do projeto, execute o comando:
+## Como Rodar o Projeto Localmente
 
-bash
-Copiar código
-npm install
-Inicie o servidor de desenvolvimento
+### Pré-requisitos
 
-Após a instalação das dependências, inicie o servidor de desenvolvimento com o comando:
+- Node.js
+- npm
 
-bash
-Copiar código
-npm start
-Acesse o aplicativo
+### Passo a Passo
 
-Abra o navegador e acesse http://localhost:3000 para ver o sistema de estacionamento em execução.
+1. **Clone o repositório**
+
+   ```bash
+   git clone https://github.com/seu-usuario/nome-do-repositorio.git
+   cd nome-do-repositorio
+   npm install
+   npm start
+
+
